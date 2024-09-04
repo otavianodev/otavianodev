@@ -1,19 +1,30 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Otaviano Assis and my nickname is "OtavianoDev"!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9F27E&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9F27E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Miguel+Kapicius;I'm+18+years+old;I'm+from+Brazil;Graduating+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-## I'm learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-
-
-## Contact:
-
-<div>
-<a href="https://www.youtube.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/otavianoassis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:otavianoassis@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/otavianoassis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+  
+  ### Main skills
+  ![JavaScript](https://img.shields.io/badge/JavaScript-D9F27E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
+  ![React](https://img.shields.io/badge/React-D9F27E.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+  ![HTML](https://img.shields.io/badge/HTML5-D9F27E.svg?style=for-the-badge&logo=HTML5&logoColor=black)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS3-D9F27E.svg?style=for-the-badge&logo=CSS3&logoColor=black)&nbsp;
 </div>
 
+
+
+<div align="center">
+
+  ### Studying in this moment
+  ![React](https://img.shields.io/badge/React-D9F27E.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+  ![Typescript](https://img.shields.io/badge/Typescript-D9F27E.svg?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
+</div>
+
+<div align="center">
+  
+  ## Important Links
+  <a href="https://www.miguelk.com" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/miguelkapicius" target="_blank">LinkedIn</a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9F27E&height=120&section=footer"/>
